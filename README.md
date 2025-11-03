@@ -1,2 +1,2 @@
 # RepositorioTeste
-Primeiro repositorio versionado GitHub
+Primeiro repositório versionado GitHub
